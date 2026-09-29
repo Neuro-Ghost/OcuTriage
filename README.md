@@ -1,4 +1,4 @@
-# OcuTriage - Ophthalmology Triage AI Agent (v2, with tools)
+# OcuTriage - Ophthalmology Triage AI Agent
 
 Capstone project for the Agentic AI Bootcamp. This version fixes the two review findings:
 
