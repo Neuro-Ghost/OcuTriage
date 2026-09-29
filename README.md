@@ -43,12 +43,6 @@ curl -X POST http://localhost:5678/webhook/ophthalmology-triage \
 | PT-10233 | Contact lens wearer |
 | PT-70654 | No history |
 
-## Evidence to capture for the resubmission
-
-1. Screenshot of the canvas showing the agent with model, memory and **four tools** attached.
-2. Screenshot of an execution where the agent called tools (open the agent node, "Intermediate steps").
-3. Screenshots of the UI for scenarios A, B, C and E.
-4. Fill in the **Result** column of the evaluation table in the PDF (section 6) from your real runs.
 
 ## Swapping the simulated pager for real SMS
 
